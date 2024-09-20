@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;principal.Lista.java&apos; to &apos;TestListas.java&apos;&#x0D;&#x0A;- Original project: &apos;pruebaLista&apos;&#x0D;&#x0A;- Original element: &apos;principal.Lista.java&apos;&#x0D;&#x0A;- Renamed element: &apos;principal.TestListas.java&apos;" description="Rename compilation unit &apos;Lista.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;principal{Lista.java" name="TestListas.java" references="false" stamp="1718356392582" version="1.0"/>
+</session>

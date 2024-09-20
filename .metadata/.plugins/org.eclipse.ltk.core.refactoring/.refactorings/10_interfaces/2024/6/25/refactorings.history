@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;interfaces.Ibase.java&apos; to &apos;IBase.java&apos;&#x0D;&#x0A;- Original project: &apos;10_interfaces&apos;&#x0D;&#x0A;- Original element: &apos;interfaces.Ibase.java&apos;&#x0D;&#x0A;- Renamed element: &apos;interfaces.IBase.java&apos;" description="Rename compilation unit &apos;Ibase.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;interfaces{Ibase.java" name="IBase.java" references="false" stamp="1718612568152" version="1.0"/>
+</session>
